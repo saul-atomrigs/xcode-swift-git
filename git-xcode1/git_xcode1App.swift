@@ -14,4 +14,8 @@ struct git_xcode1App: App {
             ContentView()
         }
     }
+    // 추가:
+    func viewDidLoad() {
+        print("testing")
+    }
 }
