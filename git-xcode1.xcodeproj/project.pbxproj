@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		4320E62528DFF6CE00D54D3F /* git-xcode1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "git-xcode1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4320E62828DFF6CE00D54D3F /* git_xcode1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = git_xcode1App.swift; sourceTree = "<group>"; };
+		4320E62828DFF6CE00D54D3F /* git_xcode1App.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = git_xcode1App.swift; sourceTree = "<group>"; tabWidth = 2; };
 		4320E62A28DFF6CE00D54D3F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4320E62C28DFF6D100D54D3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4320E62F28DFF6D100D54D3F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };

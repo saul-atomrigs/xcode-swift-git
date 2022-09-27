@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import UIKit
 
 @main
 struct git_xcode1App: App {
@@ -18,4 +19,10 @@ struct git_xcode1App: App {
     func viewDidLoad() {
         print("testing")
     }
+}
+
+class ViewController: UIViewController {
+  override func viewDidLoad() {
+    super.viewDidLoad() 
+  }
 }
